@@ -1,0 +1,4 @@
+{
+  "ENV": "localhost",
+  "BASE_API": "/api"
+}

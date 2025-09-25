@@ -1,0 +1,4 @@
+{
+  "ENV": "develop",
+  "BASE_API": "/api"
+}

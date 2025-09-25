@@ -1,0 +1,25 @@
+//客製 element plus 主題色
+@forward "element-plus/theme-chalk/src/common/var.scss" with (
+  $colors: (
+    "white": #ffffff,
+    "black": #303133,
+    "primary": (
+      "base": #7d796e,
+    ),
+    "success": (
+      "base": #67c23a,
+    ),
+    "warning": (
+      "base": #e6a23c,
+    ),
+    "danger": (
+      "base": #f56c6c,
+    ),
+    "error": (
+      "base": #f56c6c,
+    ),
+    "info": (
+      "base": #909399,
+    ),
+  )
+);

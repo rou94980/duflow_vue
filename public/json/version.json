@@ -1,0 +1,7 @@
+{
+  "localhost": "localhost",
+  "develop": "dev-workflow.e8d.cc",
+  "test": "test-workflow.e8d.cc",
+  "uat": "uat-workflow.e8d.tw",
+  "production": "workflow.e8d.tw"
+}

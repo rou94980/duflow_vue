@@ -1,0 +1,4 @@
+{
+  "ENV": "uat",
+  "BASE_API": "/api"
+}

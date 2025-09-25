@@ -1,0 +1,2 @@
+1. ENV: 環境命名（辨識用途，勿刪除）
+2. BASE_API: APIurl
